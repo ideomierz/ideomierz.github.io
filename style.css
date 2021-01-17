@@ -4,12 +4,23 @@
 		min-width: 385px;
 	}
 	.l, .r {
-		font-size: 0.9em;
+		font-size: 0.8em;
 	}
 	.intro, #questionnr, .back, .feedback a {
+		font-size: 0.9em;
+	}
+	#questiondisplay {
 		font-size: 1em;
 	}
-	
+	.o {
+		font-size: 1.1em;
+		line-height: 1.1em;
+		padding: 10px;
+	}
+	#qd {
+		display: block;
+		min-height: 0;
+	}
 }
 
 html, body, h1 {
