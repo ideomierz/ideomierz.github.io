@@ -3,6 +3,9 @@
 		max-width: 385px;
 		min-width: 385px;
 	}
+	#page {
+		max-width: 90%;
+	}
 	.l, .r {
 		font-size: 0.8em;
 	}
