@@ -96,7 +96,7 @@ let q = [
 	new Question("Konieczne jest większe skoncentrowanie wysiłków na walce z globalnym ociepleniem",0,0,0,0,0,0,-1),
 	new Question("Sposób produkcji żywności powinien opierać się w pierwszej kolejności na zasadzie ekonomicznej efektywności",0,0,0,0,0,0,1),
 	new Question("Urbanizacja obejmująca większość społeczeństwa jest zjawiskiem pozytywnym",0,0,0,0,0.3,0,0.4,0.3),
-	new Question("„Rewolucja przemysłowa i jej konsekwencje były katastrofą dla rodzaju ludzkiego”",0,0,0,0,0,0,0,-1),
+	new Question("Rewolucja przemysłowa i jej konsekwencje były katastrofą dla rodzaju ludzkiego",0,0,0,0,0,0,0,-1),
 	new Question("Powinniśmy dążyć do eksploracji przestrzeni kosmicznej i kolonizacji innych planet",0,0,0,0,0,0,0,1),
 	new Question("Potencjalne zalety wdrożenia idei transhumanizmu przewyższają niebezpieczeństwa",0,0,0,0,0,0,0,1),
 	new Question("Powrót do technik gospodarowania sprzed automatyzacji i industrializacji byłby pożądany",0,0,0,0,0,0,0,-1),
