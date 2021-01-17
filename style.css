@@ -62,7 +62,7 @@ div.bb {
 	letter-spacing: 2px;
 	text-decoration: none;
 	text-transform: uppercase;
-	color: #007373;
+	color: #00545c;
 	transition: all 0.5s;
 }
 
@@ -267,29 +267,29 @@ p:after {
 }
 
 
-.ind {background-color: #005c5c;}
+.ind {background-color: #00545c;}
 .kom {background-color: #730000;}
 
 .ega {background-color: #730000;}
-.eli {background-color: #005c5c;}
+.eli {background-color: #00545c;}
 
-.uni {background-color: #005c5c;}
+.uni {background-color: #00545c;}
 .dyf {background-color: #730000;}
 
 .nac {background-color: #730000;}
-.ana {background-color: #005c5c;}
+.ana {background-color: #00545c;}
 
-.pro {background-color: #005c5c;}
+.pro {background-color: #00545c;}
 .tra {background-color: #730000;}
 
 .mat {background-color: #730000;}
-.ide {background-color: #005c5c;}
+.ide {background-color: #00545c;}
 
-.ant {background-color: #005c5c;}
+.ant {background-color: #00545c;}
 .eko {background-color: #730000;}
 
 .tec {background-color: #730000;}
-.ate {background-color: #005c5c;}
+.ate {background-color: #00545c;}
 
 .feedback {
 	margin-top: 40px;
