@@ -210,7 +210,7 @@ function results() {
 	</div>
 	</div>
 	
-	<div class="feedback"><a href="https://forms.gle/xMVhfNjwiojNoQaR7">Zostaw opinię</a></div>`;
+	<div class="feedback"><a href="https://forms.gle/xMVhfNjwiojNoQaR7" target="_blank" rel="noopener noreferrer">Zostaw opinię</a></div>`;
 	
 	if (a1<18) document.querySelector(".a1t").style.visibility = "hidden";
 	if (a2<18) document.querySelector(".a2t").style.visibility = "hidden";
