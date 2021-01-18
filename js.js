@@ -71,7 +71,7 @@ let q = [
 	new Question("Polityka państwa powinna być podporządkowana w pierwszej kolejności interesowi narodu",0,0,0,1),
 	new Question("Mniejszości narodowe i etniczne żyjące na terytorium naszego państwa muszą zostać zasymilowane",0,0,0,1),
 	new Question("Granice międzypaństwowe powinny być wytyczone w oparciu o kryterium narodowościowe",0,0,0,1),
-	new Question("Łatwiej zaakceptowałbym zwierzchnictwo obcego państwa o ideologii podobnej do mojej, niż trwałe panowanie ideologii znacząco różnej od mojej w niepodległym państwie mojego narodu",0,0,0,-1),
+	new Question("Łatwiej zaakceptował(a)bym zwierzchnictwo obcego państwa o ideologii podobnej do mojej, niż trwałe panowanie ideologii znacząco różnej od mojej w niepodległym państwie mojego narodu",0,0,0,-1),
 	new Question("Istnieją formy państwa na ogół lepsze od państwa narodowego",0,0,0,-1),
 	new Question("Nowożytny naród stanowi bardziej sztuczną „wspólnotę wyobrażoną”, niż prawdziwą, istotną formę uspołecznienia",0,0,0,-1),
 	new Question("Nie mam nic przeciwko urzędowemu statusowi języków mniejszości etnicznych i narodowych na terenach, gdzie stanowią znaczną część ludności",0,0,0,-1),
