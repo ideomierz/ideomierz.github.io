@@ -297,26 +297,26 @@ p:after {
 .ind {background-color: #00545c;}
 .kom {background-color: #730000;}
 
-.ega {background-color: #730000;}
-.eli {background-color: #00545c;}
+.ega {background-color: #00545c;}
+.eli {background-color: #730000;}
 
 .uni {background-color: #00545c;}
 .dyf {background-color: #730000;}
 
-.nac {background-color: #730000;}
-.ana {background-color: #00545c;}
+.nac {background-color: #00545c;}
+.ana {background-color: #730000;}
 
 .pro {background-color: #00545c;}
 .tra {background-color: #730000;}
 
-.mat {background-color: #730000;}
-.ide {background-color: #00545c;}
+.mat {background-color: #00545c;}
+.ide {background-color: #730000;}
 
 .ant {background-color: #00545c;}
 .eko {background-color: #730000;}
 
-.tec {background-color: #730000;}
-.ate {background-color: #00545c;}
+.tec {background-color: #00545c;}
+.ate {background-color: #730000;}
 
 .feedback {
 	margin-top: 40px;
