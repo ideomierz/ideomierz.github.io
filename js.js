@@ -68,7 +68,7 @@ let q = [
 	new Question("Wprowadzanie zachodnich wzorców kulturowych i stylu życia wśród ludów niezachodnich ma dla nich najczęściej negatywne konsekwencje",0,0,-1),
 	new Question("Powinniśmy bronić „nieracjonalnych” cech naszej kultury, które odróżniają nas od innych",0,0,-0.7,0,-0.3),
 	new Question("Naród jest dla mnie istotną wartością",0,0,0,1),
-	new Question("Polityka państwa powinna być podporządkowana w pierwszej kolejności interesowi narodowemu",0,0,0,1),
+	new Question("Polityka państwa powinna być podporządkowana w pierwszej kolejności interesowi narodu",0,0,0,1),
 	new Question("Mniejszości narodowe i etniczne żyjące na terytorium naszego państwa muszą zostać zasymilowane",0,0,0,1),
 	new Question("Granice międzypaństwowe powinny być wytyczone w oparciu o kryterium narodowościowe",0,0,0,1),
 	new Question("Łatwiej zaakceptowałbym zwierzchnictwo obcego państwa o ideologii podobnej do mojej, niż trwałe panowanie ideologii znacząco różnej od mojej w niepodległym państwie mojego narodu",0,0,0,-1),
