@@ -18,17 +18,19 @@
 	.intro, #questionnr, .back, .feedback a {
 		font-size: 0.9em;
 	}
+	#qd {
+		display: table;
+		min-height: 0;
+	}
 	#questiondisplay {
 		font-size: 1em;
+		display: table-cell;
+		vertical-align: middle;
 	}
 	.o {
 		font-size: 1.1em;
 		line-height: 1.1em;
 		padding: 10px;
-	}
-	#qd {
-		display: block;
-		min-height: 0;
 	}
 }
 
