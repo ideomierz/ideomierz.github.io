@@ -1,3 +1,37 @@
+@media only screen and (hover: none) and (orientation: portrait) {
+	html, body, #page {
+		max-width: 385px;
+		min-width: 385px;
+	}
+	#page {
+		max-width: 90%;
+	}
+	.l, .r {
+		font-size: 0.8em;
+	}
+	.lbar, .rbar {
+		height: 25px;
+		line-height: 25px;
+		font-size: 12pt;
+		margin-bottom: 2px;
+	}
+	.intro, #questionnr, .back, .feedback a {
+		font-size: 0.9em;
+	}
+	#questiondisplay {
+		font-size: 1em;
+	}
+	.o {
+		font-size: 1.1em;
+		line-height: 1.1em;
+		padding: 10px;
+	}
+	#qd {
+		display: block;
+		min-height: 0;
+	}
+}
+
 html, body, h1 {
 	margin: 0;
 }
@@ -300,38 +334,4 @@ p:after {
 
 .feedback a:hover {
 	background-color: #c7c7c7;
-}
-
-@media only screen and (hover: none) and (orientation: portrait) {
-	html, body, #page {
-		max-width: 385px;
-		min-width: 385px;
-	}
-	#page {
-		max-width: 90%;
-	}
-	.l, .r {
-		font-size: 0.8em;
-	}
-	.lbar, .rbar {
-		height: 25px;
-		line-height: 25px;
-		font-size: 12pt;
-		margin-bottom: 2px;
-	}
-	.intro, #questionnr, .back, .feedback a {
-		font-size: 0.9em;
-	}
-	#questiondisplay {
-		font-size: 1em;
-	}
-	.o {
-		font-size: 1.1em;
-		line-height: 1.1em;
-		padding: 10px;
-	}
-	#qd {
-		display: block;
-		min-height: 0;
-	}
 }
